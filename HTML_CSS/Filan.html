@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lists, Tables and Forms</title>
+<style type="text/css">
+body {
+font-family: Arial, Verdana, sans-serif;
+font-size: 90%;
+color: #666666;
+background-color: #f8f8f8;}
+#filan{
+    text-align: left;
+}
+li {
+list-style-image: url("images/icon-plus.png");
+line-height: 1.6em;}
+table {
+border-spacing: 0px;}
+th, td {
+padding: 5px 30px 5px 10px;
+border-spacing: 0px;
+font-size: 90%;
+margin: 0px;}
+th, td {
+text-align: left;
+background-color: #e0e9f0;
+border-top: 1px solid #f1f8fe;
+border-bottom: 1px solid #cbd2d8;
+border-right: 1px solid #cbd2d8;}
+tr.head th {
+color: #ffffff;
+background-color: #90b4d6;
+border-bottom: 2px solid #547ca0;
+border-right: 1px solid #749abe;
+border-top: 1px solid #90b4d6;
+text-align: center;
+text-shadow: -1px -1px 1px #666666;
+letter-spacing: 0.15em;}
+td {
+text-shadow: 1px 1px 1px #ffffff;}
+tr.even td, tr.even th {
+background-color: #e8eff5;}
+tr.head th:first-child {
+-webkit-border-top-left-radius: 5px;
+-moz-border-radius-topleft: 5px;
+border-top-left-radius: 5px;}
+tr.head th:last-child {
+-webkit-border-top-right-radius: 5px;
+-moz-border-radius-topright: 5px;
+border-top-right-radius: 5px;}
+
+fieldset {
+width: 310px;
+margin-top: 20px;
+border: 1px solid #d6d6d6;
+border-radius: 10px;
+background-color: #e0e9f0;
+line-height: 1.6em;}
+legend {
+    background-color: #90b4d6;
+    text-align: center;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+font-style: italic;
+color: black;}
+input[type="text"] {
+width: 120px;
+border: 1px solid #d6d6d6;
+padding: 2px;
+outline: none;}
+input[type="text"]:focus,
+input[type="text"]:hover {
+background-color: #d0e2f0;
+border: 1px solid #999999;}
+input[type="submit"] {
+border: 1px solid #006633;
+background-color: #009966;
+color: #ffffff;
+border-radius: 5px;
+padding: 5px;
+margin-top: 10px;}
+input[type="submit"]:hover {
+border: 1px solid #006633;
+background-color: #00cc33;
+color: #ffffff;
+cursor: pointer;}
+.title {
+float: left;
+width: 160px;
+clear: left;}
+.submit {
+width: 310px;
+text-align: center;}
+</style>
+</head>
+<body>
+<h1>Filan Tech</h1>
+<p id="filan"><strong> Filan Tech</strong> is a technology institute that invests in the younger generation of tomorrow's leaders
+    and promotes skills that do not require a degree.
+    Every student can benefit from it in a short period of time. There is a great need for this field for
+    students from IT backgrounds as well as those from non-IT backgrounds. Our team is interested
+    in creating digital products for the learned students who want to study these programs. FilanTech
+    is an education and work site where one's job is to teach oneself the skills of programming and
+    English. The purpose of FilanTech is to provide job training to the person while learning the skill
+    and, after learning, to help them find a job. Because Filantech is about developing skills that can
+    make people work for themselves.</p>
+<h2>Executive Summary</h2>
+    <p>Our company is interested in investigating potential in programming-learning
+websites because our product is still in its early stages. Five learners with and
+without IT backgrounds were questioned about their needs, pain points, and
+preferred methods of learning this program.</p>
+<h3>Participants</h3>
+<p>we recruited 5 particioants from filan tech community</p>
+
+<table>
+<tr class="head">
+<th></th>
+<th>Study frequency</th>
+<th>Digital product they
+    Currently use</th>
+<th>what they are
+    currently ?
+    </th>
+</tr>
+<tr>
+<th>Participant 1</th>
+<td>5 days a week</td>
+<td>YouTube</td>
+<td>Git&github, Html</td>
+</tr>
+<tr class="even">
+<th>Participant 2</th>
+<td>7 days a week</td>
+<td>YouTube</td>
+<td>Java script</td>
+</tr>
+<tr>
+<th>Participant 3</th>
+<td>4-5dasy a week</td>
+<td>udacity</td>
+<td>Java script</td>
+</tr>
+<tr class="even">
+<th>Participant 4</th>
+<td>5 days a week</td>
+<td>udacity</td>
+<td>Html, java script</td>
+</tr>
+<tr>
+<th>Participant 5</th>
+<td>2 days a week</td>
+<td>udacity</td>
+<td>html</td>
+</tr>
+</table>
+<center><form action="http://www.example.com/form.php" method="post">
+<fieldset>
+<legend>Registeration Form:</legend>
+<p><label class="title" for="name">Your name:</label>
+ <input type="text" name="name" id="name"required><br />
+ <label class="title" for="email" >Your email:</label>
+ <input type="text" name="email" id="email" required>
+ 
+ 
+
+ <label class="title" for="Born">Born in:</label>
+ <input type="text" name="Born" id="Born"required>
+
+ <label for="phone">Phone number:</label>
+ <input type="tel" name="phone" id="phone"required placeholder="1234"></p>
+
+<p><label for="location" class="title">Your Plan:</label>
+ <select name="location" id="location">
+ <option value="6m">6 Months</option>
+ <option value="1y">1 Year</option>
+ <option value="2y">2 years</option>
+ </select></p>
+<span class="title">Are you Sure:</span>
+<label><input type="radio" name="member" value="yes" /> Yes</label>
+<label><input type="radio" name="member" value="no" /> No</label>
+</fieldset>
+ <div class="submit"><input type="submit" value="Register" /></div>
+</form></center>
+</body>
+</html>
