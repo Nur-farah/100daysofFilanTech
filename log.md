@@ -4,11 +4,19 @@
 
 **Today's Progress**: I read the first 9 chapters of HTML & CSS book by Jon Duckett. I also solved the Learn HTML by building a cat Photo App on Freecodecamp's Responsive web design challenges.
 
-**Link to work**: [Cat Photo App](https://github.com/Nur-farah/100daysofFilanTech/tree/main/HTML_CSS)
+* **Link to work**: [Cat Photo App](https://github.com/Nur-farah/100daysofFilanTech/tree/main/HTML_CSS)
 
 ### Day 2: October 8, 2022
 
-
 **Today's Progress**: Finished reading and practicing the final 10 chapters of Jon Duckett's HTML and CSS book. 
 
-**Link to work**:[Filan.html](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Filan.html)
+* **Link to work**:[Filan](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Filan.html)
+
+### Day 3: October 9, 2022
+
+**Today's Progress**: I Solved the Learn Basic CSS by Building a Cafe Menu, Learn CSS Colors by Building a set of Colored Markers and Learn HTML Forms by Building a Registration Form on Freecodecamp's Responsive web design challenges.
+
+**Links to work**:
+* [Camper Cafe](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/CAMPER%20CAFE.html)
+* [Color Marker](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Color%20Marker.html)
+* [Registration Form](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Registration%20Form.html)
