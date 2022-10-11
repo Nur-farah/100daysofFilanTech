@@ -28,3 +28,9 @@
 **Link to work**:[Filan Form Survey](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Filan%20Form%20Survey.htmll)
 
 
+### Day 5: October 11, 2022
+
+**Today's Progress**: Today I spent some time building a Rothko Painting on Freecodecamp's Responsive web design challenges.
+
+**Link to work**:[Rothko Painting](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Rothko%20Painting.html)
+
