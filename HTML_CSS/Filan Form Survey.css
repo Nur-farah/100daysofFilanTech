@@ -34,11 +34,12 @@
         rgba(58, 58, 158, 0.8),
         rgba(136, 136, 206, 0.7)
       ),
-      url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+      url(../Img/Filan.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
   }
+  
   
   h1 {
     font-weight: 400;
@@ -175,4 +176,19 @@
     color: inherit;
     border-radius: 2px;
     cursor: pointer;
+  }
+
+
+  .footer {
+    margin-top: 20px ;
+    text-align: center ;
+    font-size: 16px ;
+    font-family: verdana ;
+    width: 635px ;
+    height: 100px ;
+    background-color: #4f4fa78c ;
+    }
+  
+  .contact{
+    color: #ffffff
   }
