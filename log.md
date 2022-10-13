@@ -35,8 +35,15 @@
 **Link to work**:[Rothko Painting](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Rothko%20Painting.html)
 
 
-### Day 6: October 11, 2022
+### Day 6: October 12, 2022
 
 **Today's Progress**:Today I built a Photo Gallery on Freecodecamp's Responsive web design challenges.
 
 **Link to work**:[Photo Gallery](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Photo%20Gallery.html)
+
+
+### Day 7: October 13, 2022
+
+**Today's Progress**:A lazy day, but I nevertheless made HTML/CSS. 
+
+**Link to work**:[Nutrition Label](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Nutrition%20Label.html)
