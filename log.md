@@ -47,3 +47,10 @@
 **Today's Progress**:A lazy day, but I nevertheless made HTML/CSS. 
 
 **Link to work**:[Nutrition Label](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Nutrition%20Label.html)
+
+
+### Day 8: October 14, 2022
+
+**Today's Progress**:Today i spent some time  solving Learn Accessibility by Building a Quiz  on Freecodecamp's Responsive web design challenges.
+
+**Link to work**:[quiz](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/quiz.html)
