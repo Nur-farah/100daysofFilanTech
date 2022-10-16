@@ -63,4 +63,10 @@
 **Link to work**:[Balance Sheet](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Balance%20sheet.html)
 
 
+### Day 10: October 16, 2022
+
+**Today's Progress**:I solved the  Learn Intermediate CSS by Building a Picasso Painting on Freecodecamp's Responsive web design challenges.
+
+**Link to work**:[Picasso Painting](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Picasso%20Painting.html)
+
 
