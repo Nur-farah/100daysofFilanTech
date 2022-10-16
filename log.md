@@ -54,3 +54,13 @@
 **Today's Progress**:Today i spent some time  solving Learn Accessibility by Building a Quiz  on Freecodecamp's Responsive web design challenges.
 
 **Link to work**:[quiz](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/quiz.html)
+
+
+### Day 9: October 15, 2022
+
+**Today's Progress**:Today I had some time solving the  Learn More About CSS Pseudo Selectors By Building A Balance Sheet on Freecodecamp's Responsive web design challenges.
+
+**Link to work**:[Balance Sheet](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Balance%20sheet.html)
+
+
+
