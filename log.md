@@ -70,3 +70,8 @@
 **Link to work**:[Picasso Painting](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Picasso%20Painting.html)
 
 
+### Day 11: October 17, 2022
+
+**Today's Progress**:Solved the  Learn Responsive Web Design by Building a Piano on Freecodecamp's Responsive web design challenges.
+
+**Link to work**:[Piano](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Piano.html)
