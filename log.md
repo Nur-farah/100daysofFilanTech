@@ -75,3 +75,10 @@
 **Today's Progress**:Solved the  Learn Responsive Web Design by Building a Piano on Freecodecamp's Responsive web design challenges.
 
 **Link to work**:[Piano](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Piano.html)
+
+
+### Day 12 and 13 : October 18 & 19, 2022
+
+**Today's Progress**:Spent the last 2 days solving Learn CSS Variables by Building a City Skyline on Freecodecamp's Responsive web design challenges.
+
+**Link to work**:[City skyline](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/City%20Skyline.html)
