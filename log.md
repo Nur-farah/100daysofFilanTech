@@ -82,3 +82,10 @@
 **Today's Progress**:Spent the last 2 days solving Learn CSS Variables by Building a City Skyline on Freecodecamp's Responsive web design challenges.
 
 **Link to work**:[City skyline](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/City%20Skyline.html)
+
+
+### Day 14 : October 20, 2022
+
+**Today's Progress**:I built a magazine by learning CSS Grid on Freecodecamp's responsive web design challenges.
+
+**Link to work**:[Magazine](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/City%20Skyline.html)
