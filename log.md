@@ -88,4 +88,4 @@
 
 **Today's Progress**:I built a magazine by learning CSS Grid on Freecodecamp's responsive web design challenges.
 
-**Link to work**:[Magazine](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/City%20Skyline.html)
+**Link to work**:[Magazine](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Magazine.html)
