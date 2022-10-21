@@ -89,3 +89,10 @@
 **Today's Progress**:I built a magazine by learning CSS Grid on Freecodecamp's responsive web design challenges.
 
 **Link to work**:[Magazine](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Magazine.html)
+
+
+### Day 15 : October 21, 2022
+
+**Today's Progress**:Solved the Learn CSS Animation by Building a Ferris Wheel on Freecodecamp's responsive web design challenges.
+
+**Link to work**:[Ferris Wheel](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Ferris%20Wheel.html)
