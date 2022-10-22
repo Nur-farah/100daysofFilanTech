@@ -96,3 +96,10 @@
 **Today's Progress**:Solved the Learn CSS Animation by Building a Ferris Wheel on Freecodecamp's responsive web design challenges.
 
 **Link to work**:[Ferris Wheel](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Ferris%20Wheel.html)
+
+
+### Day 16 : October 22, 2022
+
+**Today's Progress**:Finished solving the Learn CSS Transform by Building a Penguin on Freecodecamp's responsive web design challenges.
+
+**Link to work**:[Penguin](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Penguin.html)
