@@ -103,3 +103,8 @@
 **Today's Progress**:Finished solving the Learn CSS Transform by Building a Penguin on Freecodecamp's responsive web design challenges.
 
 **Link to work**:[Penguin](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/Penguin.html)
+
+
+### Day 17 : October 25, 2022
+
+**Today's Progress**:started the Basic javascript on Freecodecamp's JavaScript Algorithms and Data Structure.
