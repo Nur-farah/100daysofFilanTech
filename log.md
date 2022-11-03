@@ -108,3 +108,10 @@
 ### Day 17 : October 25, 2022
 
 **Today's Progress**:started the Basic javascript on Freecodecamp's JavaScript Algorithms and Data Structure.
+
+
+### Day 18 : November 3, 2022
+
+**Today's Progress**:It's been a while but yes I'm back on track and today I built a result form using HTML/CSS and basic Javascript.
+
+**Link to work**:[Result Form](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/result%20form.html)
