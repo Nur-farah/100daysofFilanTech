@@ -115,3 +115,10 @@
 **Today's Progress**:It's been a while but yes I'm back on track and today I built a result form using HTML/CSS and basic Javascript.
 
 **Link to work**:[Result Form](https://github.com/Nur-farah/100daysofFilanTech/blob/main/HTML_CSS/result%20form.html)
+
+
+### Day 19 : November 4, 2022
+
+**Today's Progress**:Today, I learned and practiced Git and GitHub and achieved  certification from @365 Data Science.
+
+**Link to work**:[Git and GitHub certificate](https://github.com/Nur-farah/100daysofFilanTech/blob/main/Files/Git%20and%20GitHub%20certificate.pdf)
