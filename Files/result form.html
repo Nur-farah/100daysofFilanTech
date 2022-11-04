@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <title>Result Form</title>
+        <style>
+            body{
+                background-color:lightblue;
+            }
+            .Result{
+                border: 2px dotted black;
+                margin:auto;
+                padding: 10px;
+                background-color: gray;
+                border-radius: 2%;
+            }
+            .number{
+                width: 100%;
+                padding: 5px;
+                background-color: rgba(255, 255, 255, 0.781);
+            }
+            .submit{
+                margin-top: 5px;
+            }
+            button{
+                margin: 1%;
+            }
+        </style>
+
+    </head>
+    <body>
+        <form>
+            <div class="Result">
+                <h2>Result Form</h2>
+                JavaScript:
+                <input type="number" class="number" placeholder="Enter the Result"> <br>
+                Math:
+                <input type="number" class="number" placeholder="Enter the Result"> <br>
+                Accounting:
+                <input type="number" class="number" placeholder="Enter the Result"> <br>
+                SQL:
+                <input type="number" class="number" placeholder="Enter the Result"> <br>
+                MultiMedia:
+                <input type="number" class="number" placeholder="Enter the Result"> <br>
+                Academic Writing:
+                <input type="number" class="number" placeholder="Enter the Result"> <br>
+                <button onclick='
+                let number=document.getElementsByClassName("number")
+                var firstvalue= parseFloat(number[0].value);
+                var secondvalue= parseFloat(number[1].value);
+                var thirdvalue= parseFloat(number[2].value);
+                var fourthvalue= parseFloat(number[3].value);
+                var fifthvalue= parseFloat(number[4].value);
+                var sixthvalue= parseFloat(number[5].value );
+                var total= firstvalue+secondvalue+thirdvalue+fourthvalue+fifthvalue+sixthvalue;
+                var average= total/6;
+                alert("Your average is:"+average +"%" + "Your Result is:" +total);
+                '>submit</button>
+            </div>
+        </form>
+    </body>
+</html>
