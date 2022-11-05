@@ -122,3 +122,8 @@
 **Today's Progress**:Today, I learned and practiced Git and GitHub and achieved  certification from @365 Data Science.
 
 **Link to work**:[Git and GitHub certificate](https://github.com/Nur-farah/100daysofFilanTech/blob/main/Files/Git%20and%20GitHub%20certificate.pdf)
+
+
+### Day 20 : November , 2022
+
+**Today's Progress**:Today I spent a few hours of learning javascript if-else and validation.
